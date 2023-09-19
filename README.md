@@ -1,4 +1,11 @@
 # plane_regression
+
+1.1 Download
+
+]add https://github.com/Matheus-Janczkowski/plane_regression/
+
+1.2 Usage
+
 It is a simple repository to model data within the x-y plane. Different types of models are available, such as linear and quadratic.
 The curve fitting and its parameters adjusting are treated as an optimization problem. For now, the available loss function and optimizer
 algorithm are RMSE and ADAM, respectively. 
