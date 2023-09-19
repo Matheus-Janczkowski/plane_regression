@@ -32,3 +32,6 @@ For linear regression
 model_function, parameters = regress_model(x, y, "linear")
 
 model_function is already a function of x only and contains the trained parameters.
+
+
+[plot_linear_regression.pdf](https://github.com/Matheus-Janczkowski/plane_regression/files/12655851/plot_linear_regression.pdf)
